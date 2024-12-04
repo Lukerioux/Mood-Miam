@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open Accueil",
-            "file": "c:\\Users\\luluk\\OneDrive\\Documents\\GitHub\\Mood-Miam\\Accueil"
+            "file": "c:\\Users\\luluk\\OneDrive\\Documents\\GitHub\\Mood-Miam\\Accueil.html"
         }
     ]
 }
